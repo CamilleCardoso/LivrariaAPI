@@ -1,0 +1,43 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 610
+  HorizontalOffset = 559
+  VerticalOffset = 41
+  Width = 624
+  PPI = 120
+  object SQLServerUniProvider1: TSQLServerUniProvider
+    Left = 50
+    Top = 20
+  end
+  object UniConnection1: TUniConnection
+    Connected = True
+    BeforeConnect = UniConnection1BeforeConnect
+    BeforeDisconnect = UniConnection1BeforeDisconnect
+    ProviderName = 'SQL Server'
+    Database = 'Livraria'
+    Username = 'Livraria'
+    Server = 'AVECOM08'
+    Left = 198
+    Top = 20
+    EncryptedPassword = '92FF96FF92FF96FF91FF97FF9EFF8CFFCDFF'
+  end
+  object UniQuery1: TUniQuery
+    Connection = UniConnection1
+    SQL.Strings = (
+      'SELECT * FROM Usuarios WHERE Nome = :Username AND Senha = :Password'
+    )
+    Active = True
+    FilterOptions = []
+    Left = 350
+    Top = 24
+    ParamData = <    
+      item
+        DataType = ftUnknown
+        Name = 'Username'
+      end    
+      item
+        DataType = ftUnknown
+        Name = 'Password'
+      end>
+  end
+end
