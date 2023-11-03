@@ -1,2 +1,2 @@
 # LivrariaAPI
-Library API Creation Project Using SQL Server Database.
+Library API Creation Project Using SQL Server Database with Horse.
