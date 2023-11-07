@@ -1,4 +1,4 @@
-Livraria API is a bookstore API creation project using a SQL Server database with Horse. It utilizes Lazarus IDE, which is an open-source integrated development environment, and requires several additional components, including Horse, DataSet Serialize, and Middlewares like Horse OctetStream, Horse Basic Authentication, Horse Cors and Horse Basic Jhonson.
+Library API is a bookstore API creation project using a SQL Server database with Horse. It utilizes Lazarus IDE, which is an open-source integrated development environment, and requires several additional components, including Horse, DataSet Serialize, and Middlewares like Horse OctetStream, Horse Basic Authentication, Horse Cors and Horse Basic Jhonson.
 
 ## Getting Started
 
