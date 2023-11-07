@@ -31,11 +31,10 @@ Remember to follow the instructions provided in each repository's README file to
 1. Step one: https://www.lazarus-ide.org/index.php?page=downloads
 2. Step two: https://github.com/HashLoad/horse
 3. Step three: https://github.com/viniciussanchez/dataset-serialize
-4. Step three: https://github.com/viniciussanchez/dataset-serialize
-5. Step four: https://github.com/HashLoad/jhonson
-6. Step five: https://github.com/HashLoad/horse-basic-auth
-7. Step six: https://github.com/HashLoad/horse-cors
-8. Step seven: https://github.com/HashLoad/horse-octet-stream
+4. Step four: https://github.com/HashLoad/jhonson
+5. Step five: https://github.com/HashLoad/horse-basic-auth
+6. Step six: https://github.com/HashLoad/horse-cors
+7. Step seven: https://github.com/HashLoad/horse-octet-stream
 
 
 ## Versioning
