@@ -2,13 +2,14 @@ Livraria API is a bookstore API creation project using a SQL Server database wit
 
 ## Getting Started
 
-Download and install the Lazarus IDE from the official website: https://www.lazarus-ide.org/index.php?page=downloads
-Clone the Horse component repository from GitHub: https://github.com/HashLoad/horse
-Clone the DataSet Serialize repository from GitHub: https://github.com/viniciussanchez/dataset-serialize
-Clone the JSON Middleware repository from GitHub: https://github.com/HashLoad/jhonson
-Clone the Horse Basic Authentication Middleware repository from GitHub: https://github.com/HashLoad/horse-basic-auth
-Clone the Horse Cors Middleware repository from GitHub: https://github.com/HashLoad/horse-cors
-Clone the Horse Octet Stream Middleware repository from GitHub: https://github.com/HashLoad/horse-octet-stream
+- Download and install the Lazarus IDE from the official website: https://www.lazarus-ide.org/index.php?page=download;
+- Clone the Horse component repository from GitHub: https://github.com/HashLoad/horse;
+- Clone the DataSet Serialize repository from GitHub: https://github.com/viniciussanchez/dataset-serialize;
+- Clone the JSON Middleware repository from GitHub: https://github.com/HashLoad/jhonson;
+- Clone the Horse Basic Authentication Middleware repository from GitHub: https://github.com/HashLoad/horse-basic-auth;
+- Clone the Horse Cors Middleware repository from GitHub: https://github.com/HashLoad/horse-cors;
+- Clone the Horse Octet Stream Middleware repository from GitHub: https://github.com/HashLoad/horse-octet-stream.
+
 Remember to follow the instructions provided in each repository's README file to ensure proper installation and setup.
 
 ### Prerequisites
